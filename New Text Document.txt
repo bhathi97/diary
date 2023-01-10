@@ -50,6 +50,7 @@ data log page is completed
 2022.01.10
 Project – new design was created – login page
 start to concert the project to an architecture
-research about architectures
+research about architectures and choose MVVM
+start to organize the project into the architecture
 
 
