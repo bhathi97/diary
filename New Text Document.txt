@@ -43,7 +43,7 @@ adding data go to log data table function was created.
 start designing new page – data log page
 C# - polymorphism, abstraction
 
- 2022.01.09
+2022.01.09
 Project – add accNo detail column to sql tables and add it to interfaces
 data log page is completed
 
@@ -52,5 +52,12 @@ Project – new design was created – login page
 start to concert the project to an architecture
 research about architectures and choose MVVM
 start to organize the project into the architecture
+
+2022.01.11
+login page connect with database
+project files convert to MVVM architecture
+problem-icon not show - soution found
+learn about windows entitiy framework
+
 
 
